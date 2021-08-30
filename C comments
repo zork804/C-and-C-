@@ -1,0 +1,8 @@
+// for single line comment
+
+/*  
+for multiple 
+ine comment
+*/
+
+// comment are invisible to compiler! They make code more readable for humans. 
