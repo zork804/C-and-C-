@@ -2,9 +2,9 @@
 #include<stdio.h>
 main()
 {
-printf ("just one small step for coder. one giant leap for");
+printf ("just one small step for coder. one giant leap for\n");
 
-printf ("programmeers!\n");
+printf ("programmeers!");
 
 return 0 ;
 }
